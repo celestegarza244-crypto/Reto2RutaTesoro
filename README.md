@@ -3,6 +3,9 @@
 WinForms app (C#, .NET 8) that simulates a treasure route using a **singly
 linked list built entirely from scratch** (no `List<T>`, `LinkedList<T>`,
 `Queue<T>`, `Stack<T>`, `Dictionary<TKey,TValue>`, or arrays used as storage).
+AUTORES: 
+-ALEXA ABIGAIL FRAIRE SANDOVAL
+-CELESTE ANYELIQUE GARZA MAURICIO 
 
 ## Project structure
 
